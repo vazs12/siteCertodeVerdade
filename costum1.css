@@ -16,25 +16,25 @@ nav ul li a:hover {
 .nav-link{
     padding-left: 5rem!important;
 }
-#perfil{
+#tudinho{
     text-align: center;
     max-width:100%;
-   
+    font-weight: bold;
+    
     
 }
-#destaques{
-    background-color: white!important;
-}
+
+
 
 
 .cols {
     text-align: center!important;
 }
 h1{ 
-    font-family: 'Kaushan Script';
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     text-align: center    ;
-
+    font-weight: bold;
     
 }
 h2{
@@ -45,38 +45,37 @@ h2{
     font-weight: bold;
     
 }
-h3{
-    font-family: agency fb;
-    font-size: 25px;
-    text-transform: uppercase;
+img{
+
 }
-p{
+h3{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-transform: uppercase;
+    font-weight: bold;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20Px;
+    text-transform: uppercase;
+    text-align: center!important;
+    font-weight: bold;
 }
 h4{
-    font-family: 'Kaushan Script';
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
-    
+    font-weight: bold;
 }
 .nav-link{
     padding-left: 10rem!important;
 }
-
-#fotoYasmin{
-        border-radius: 50%;
-}
-
-#redes{
-    text-align: center;
-    
-
+h5{
+    font-size: 15px!important;
 }
 
 footer{
     font-family:  'Kaushan Script';
     text-align: center;
     font-weight: bold;
-
+   
 }

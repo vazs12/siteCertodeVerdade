@@ -1,50 +1,52 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Júnior Gonçalves | Recados</title>
-    <!-- Fonts Google -->
-    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' >
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700' rel='stylesheet'>
-    <!-- Bootstrap CSS -->
+    <title>Site Pessoal</title>
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="costum4.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="imagens/favicon-16x16.png">
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-md fixed-top navbar-light bg-light">
-            <section class="container">
-                <div class="row col-12 p-5">
-                    <div class="col-11 col-sm-4">
-                        <a class="navbar-brand" href="index.html">
-                            <img src="imagens/logo.png" alt="Logotipo Júnior">
-                        </a>
-                        <button class="navbar-toggler float-end mb-3" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                    </div>
-                    <div class="col-1 col-sm-8 collapse flex-row-reverse navbar-collapse" id="navbarCollapse">
-                        <ul class="navbar-nav">
-                            <li class="nav-item text-right">
-                                <a class="nav-link" href="index.html">Home</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="sobre.html">Sobre</a>
-                            </li>                  
-                            <li class="nav-item">
-                                <a class="nav-link" href="livros.html">Livros</a>
-                            </li>                  
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Contato</a>
-                            </li>                  
-                        </ul> 
-                    </div>
-                </div>            
-            </section>
-        </nav>        
-    </header>
+    <div id="tudo">
+        <header>
+            <nav class="navbar navbar-expand-md fixed-top navbar-light bg-light">
+                <section class="container">
+                    <div class="row col-12 p-0">
+                        <div class="col-7 col-sm-1">
+                            <a class="navbar-brand" href="familia.html">
+                                <img src="imagens/logo (2).png" alt="Logotipo Yasmin" width="100" height="100">
+                            </a>
+                            <button class="navbar-toggler float-end mb-3" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                        </div>
+                        <div class="col-1 col-sm-8 collapse flex-row-reverse navbar-collapse" id="navbarCollapse">
+                            <ul class="navbar-nav">
+                                <li class="nav-item text-right">
+                                    <a class="nav-link" href="index.html">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="sobremim.html">Sobre mim</a>
+                                </li>                  
+                                <li class="nav-item">
+                                    <a class="nav-link" href="familia.html">Família</a>
+                                </li>                  
+                                <li class="nav-item">
+                                    <a class="nav-link" href="gostos.html">Gostos</a>
+                                </li>   
+                                <li class="nav-item">
+                                    <a class="nav-link" href="recados.html">Recados</a>
+                                </li>                 
+                            </ul> 
+                        </div>
+                    </div>            
+                </section>
+            </nav>        
+        </header> 
     <main> 
         <section id="lista-recados">
             <div class="container">                
